@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is some content to mess up
 new line in here in file4.txt
+=======
+something else
+>>>>>>> newfeature
